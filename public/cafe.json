@@ -1,0 +1,68 @@
+[
+	{
+		"image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=847&q=80",
+		"name": "Brewed Awakening",
+		"price": 50,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	},
+	{
+		"image": "https://images.unsplash.com/photo-1481833761820-0509d3217039?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+		"name": "The Daily Grind",
+		"price": 60,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	},
+	{
+		"image": "https://plus.unsplash.com/premium_photo-1661757488161-09663f0558ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+		"name": "Cool Beans Cafe",
+		"price": 10,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	},
+	{
+		"image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+		"name": "Steamy Mugs",
+		"price": 20,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	},
+	{
+		"image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+		"name": "Caffeine Fix",
+		"price": 12,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	},
+	{
+		"image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=878&q=80",
+		"name": "The Beanery",
+		"price": 22,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	},
+	{
+		"image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+		"name": "Jolt Coffee",
+		"price": 64,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	},
+	{
+		"image": "https://images.unsplash.com/photo-1463797221720-6b07e6426c24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+		"name": "Perk Up Cafe",
+		"price": 78,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	},
+	{
+		"image": "https://images.unsplash.com/photo-1542181961-9590d0c79dab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+		"name": "Cuppa Joe's",
+		"price": 45,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	},
+	{
+		"image": "https://plus.unsplash.com/premium_photo-1661758946219-dcf3e31e557d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+		"name": "The Grind House",
+		"price": 58,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	},
+	{
+		"image": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+		"name": "Bean Around",
+		"price": 64,
+		"description": "A café is a type of establishment that typically serves a variety of coffee, tea, and light refreshments, such as pastries and sandwiches. Cafés often have a relaxed and comfortable atmosphere, with cozy seating, tables for groups, and free Wi-Fi access."
+	}
+]
